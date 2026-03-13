@@ -20,3 +20,21 @@ Unlike Proof of Work or Proof of Stake, PoNa rewards nodes based on measurable a
 ## Attribution
 
 Concept introduced by the Twinverse Goshen ecosystem.
+## PoNa Protocol Documents
+
+Primary Whitepaper  
+PoNa – Proof of Node Activity Consensus Model
+
+Secondary Paper  
+Twinverse Goshen Expanded Concept
+
+## Files
+
+- PoNa_Proof_of_Node_Activity_Whitepaper.pdf
+- PoNa_Twinverse_Expanded_Concept_Paper.pdf
+
+## Architecture
+
+PoNa + Ballchain + Twinverse Ecosystem
+
+![PoNa Architecture](pona_architecture_diagram.png)
